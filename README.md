@@ -1,4 +1,4 @@
-ersonal Portfolio Website – Fakhrunnisa Mohammadi
+Personal Portfolio Website – Fakhrunnisa Mohammadi
 Welcome to my personal portfolio website! This is a creative project built using only HTML and CSS to showcase who I am, what I’ve learned, and how I apply my skills and creativity in web development.
 
 📌 About This Project
